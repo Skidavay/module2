@@ -1,0 +1,6 @@
+name = input('Введите имя: ')
+surname = input('Введите фамилию: ')
+city = input('Введите город проживания: ')
+print('============')
+print ('Вас зовут', name, surname)
+print ('Вы живёте в городе', city)
